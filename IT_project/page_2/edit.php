@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <div class="container-fluid d-flex justify-content-center bg-light p-5 row">
+    <div class="container-fluid d-flex justify-content-center align-items-center bg-light p-5 row">
         <div class="one p-5 col-md-6">
             <img src="../img/Granite square side table 1.png" alt="" class="img-fluid">
             <h3 class="fw-bold">Side table</h3>
@@ -29,6 +29,8 @@
         </div>
     </div>
 
+
+
     <br />
 
     <div class="container-fluid">
@@ -40,53 +42,42 @@
             </h3>
         </div>
         <br />
-        <div class="container d-flex justify-content-around flex-wrap">
-            <section class="first p-3">
-                <div class="row">
-                    <img src="../img/Trenton modular sofa_3 1.png" alt="" class="img-fluid" />
-                </div>
-                <br />
-                <div class="row">
-                    <p>Trenton modular sofa_3</p>
-                    <br />
-                    <h5>Rs. 25,000.00</h5>
-                </div>
-            </section>
+        <div class="container">
+            <div class="row">
+                <section class="first p-3 col-md-6 col-lg-3">
+                    <div class="text-center">
+                        <img src="../img/Trenton modular sofa_3 1.png" alt="" class="img-fluid" />
+                        <p class="mt-3">Trenton modular sofa_3</p>
+                        <h5>Rs. 25,000.00</h5>
+                    </div>
+                </section>
 
-            <section class="second p-3">
-                <div class="row">
-                    <img src="../img/Granite dining table with dining chair 1.png" alt="" class="img-fluid" />
-                </div>
-                <br />
-                <div class="row">
-                    <p>Granite dining table with dining chair</p>
-                    <br />
-                    <h5>Rs. 25,000.00</h5>
-                </div>
-            </section>
+                <section class="second p-3 col-md-6 col-lg-3">
+                    <div class="text-center">
+                        <img src="../img/Granite dining table with dining chair 1.png" alt="" class="img-fluid" />
+                        <p class="mt-3">Granite dining table with dining chair</p>
+                        <h5>Rs. 25,000.00</h5>
+                    </div>
+                </section>
 
-            <section class="third p-3">
-                <div class="row">
-                    <img src="../img/Outdoor bar table and stool 1.png" alt="" class="img-fluid" />
-                </div>
-                <br />
-                <div class="row">
-                    <p>Outdoor bar table and stool</p>
-                    <h5>Rs. 25,000.00</h5>
-                </div>
-            </section>
+                <section class="third p-3 col-md-6 col-lg-3">
+                    <div class="text-center">
+                        <img src="../img/Outdoor bar table and stool 1.png" alt="" class="img-fluid" />
+                        <p class="mt-3">Outdoor bar table and stool</p>
+                        <h5>Rs. 25,000.00</h5>
+                    </div>
+                </section>
 
-            <section class="fourth p-3">
-                <div class="row">
-                    <img src="../img/Plain console with teak mirror 1.png" alt="" class="img-fluid" />
-                </div>
-                <br />
-                <div class="row">
-                    <p>Plain console with teak mirror</p>
-                    <h5>Rs. 25,000.00</h5>
-                </div>
-            </section>
+                <section class="fourth p-3 col-md-6 col-lg-3">
+                    <div class="text-center">
+                        <img src="../img/Plain console with teak mirror 1.png" alt="" class="img-fluid" />
+                        <p class="mt-3">Plain console with teak mirror</p>
+                        <h5>Rs. 25,000.00</h5>
+                    </div>
+                </section>
+            </div>
         </div>
+
         <br />
         <br />
         <div class="text-center m-5">
